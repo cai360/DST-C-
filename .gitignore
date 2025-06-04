@@ -1,0 +1,19 @@
+# macOS 系統檔
+.DS_Store
+
+# Xcode
+*.xcuserstate
+*.xcuserdata/
+*.xcworkspace/
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+
+# 編譯輸出
+*.o
+*.out
+*.a
+*.exe
+
+# 編譯過程中的暫存檔
+build/
+
